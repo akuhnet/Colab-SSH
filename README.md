@@ -3,7 +3,7 @@
 
 [![SSH Google Colab With GPU](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10_MRbfruEYqrZU5xdBD10hII9bbsjobn?usp=sharing)
 ###
-Running more than 6 hours
+Colab SSh Running more than 6 hours
 
 [![OpenSea](https://storage.googleapis.com/opensea-static/Logomark/OpenSea-Full-Logo%20(dark).svg)](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/57962840986732201717298571099835792008652747475067712206317551202656642400257/)
 
