@@ -1,7 +1,17 @@
 ## __Colab SSH with GPU__
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=16D400&size=25&width=770&lines=1+Click+SSH+With+GPU)](https://git.io/typing-svg)
 
+
+###
+
+- SSH GPU
 [![SSH Google Colab With GPU](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10_MRbfruEYqrZU5xdBD10hII9bbsjobn?usp=sharing)
+
+- 40 CPU
+[![40 CPU](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akuhnet/Colab-SSH/blob/main/40cpu.ipynb)
+
+###
+
 ###
 Colab SSh Running more than 6 hours
 
