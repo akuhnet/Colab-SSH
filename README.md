@@ -5,7 +5,7 @@
 ###
 
 - SSH GPU
-[![SSH Google Colab With GPU](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10_MRbfruEYqrZU5xdBD10hII9bbsjobn?usp=sharing)
+[![SSH Google Colab With GPU](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akuhnet/Colab-SSH/)
 
 - 40 CPU
 [![40 CPU](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akuhnet/Colab-SSH/blob/main/40cpu.ipynb)
