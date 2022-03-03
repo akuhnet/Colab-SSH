@@ -11,8 +11,7 @@
 - 40 CPU
 [![40 CPU](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akuhnet/Colab-SSH/blob/main/40cpu.ipynb)
 
-- Dual Mine
-[![40 CPU](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akuhnet/Colab-SSH/blob/main/Ngrok_ssh.ipynb)
+
 
 ###
 
